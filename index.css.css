@@ -1,0 +1,61 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: comic-sans;
+
+}
+
+.banner{
+ display: flex;
+justify-content: right;
+align-items: right;
+min-height: 100vh;
+background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(0.png);
+background: url("2118.png") no-repeat;
+background-size: cover;
+background-position: center;
+}
+   nav a{
+    font-size:1rem;
+    color:green;
+    border-box: black;
+    text-decoration: undreline;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: right;
+    
+}
+
+li{
+    display: inline-block;
+    padding: 1rem;
+    align-items: right;
+}
+
+a:hover{
+	color: black;
+
+}
+.heading{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translatey(-50);
+    text-align: right;
+    color: #222;
+    font-size:2rem;
+    font-family: rowdex;
+}
+.h1{
+    text-align:left;
+    color: red;
+}
+img src
+{
+    position: behind the text;
+}
+
